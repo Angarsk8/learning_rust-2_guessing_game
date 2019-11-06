@@ -1,0 +1,8 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+authors = ["Andres Garcia <andresa.garciah621@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.2"              # Random number generators and other randomness functionality.
